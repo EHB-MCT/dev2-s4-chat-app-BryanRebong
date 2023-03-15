@@ -3,6 +3,7 @@
 const chat = {
     author: "yourName",
     init() {
+        console.log(this.sendMessage);
     },
     sendMessage() {
     },
